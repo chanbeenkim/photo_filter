@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCiEOssmpJWTZxM41oRor62NsnmBOGWdQw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>257265362534</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.photoFilter</string>
+	<key>PROJECT_ID</key>
+	<string>photofilter-app-b1313</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photofilter-app-b1313.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:257265362534:ios:a20044a26b56dd6a472fa7</string>
+</dict>
+</plist>
